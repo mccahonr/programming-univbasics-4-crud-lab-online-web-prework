@@ -7,8 +7,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  array_one = ["Pepperoni", "Sausage"]
-  array_one.push("Cheese")
+  array = ["wow", "I", "am", "really", "learning"]
+  array.push("arrays")
 end
 
 def add_element_to_start_of_array(array, element)
